@@ -1,5 +1,5 @@
 # Arduino Clock
-This is a customizable clock I made in 2021 cosisting of an Arudino mini board, a DS1337 RTC, a 24-LED NeoPixel ring, a rotary switch and an upcycled CPU cooler. Using the rotary dial, one can adjust the brightness of the LEDs as well as the colour of each individual clock "hand". The user's custimized clock settings are written to the DS1337's internal EEPROM in order to permanently save changes made to the clock, even after powering off. For a video of the clock in action, click [here](https://youtube.com/shorts/7Wb_bDcPQiU?feature=share).
+This is a customizable clock I made in 2021 cosisting of an Arudino mini board, a DS3231 RTC, a 24-LED NeoPixel ring, a rotary switch and an upcycled CPU cooler. Using the rotary dial, one can adjust the brightness of the LEDs as well as the colour of each individual clock "hand". The user's custimized clock settings are written to the DS3231's internal EEPROM in order to permanently save changes made to the clock, even after powering off. For a video of the clock in action, click [here](https://youtube.com/shorts/7Wb_bDcPQiU?feature=share).
 
 
 <img src="Images/ClockFront.jpg" width="300px"> <img src="Images/ClockRear.jpg" width="300px">
